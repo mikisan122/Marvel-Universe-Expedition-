@@ -1,0 +1,6 @@
+{
+  "name": "Marvel Universe",
+  "description": "Plataforma interactiva del Universo Marvel para explorar expedientes clasificados, biografías, orígenes, habilidades de combate y colecciones de personajes de Marvel Comics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
